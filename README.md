@@ -14,6 +14,16 @@ Incluye el sketch y wireframe original en `sketch-wireframe/`.
 
 Demo: https://canderojo.github.io
 
+## Capturas
+
+![Wireframe original del sitio](sketch-wireframe/wireframe.jpg)
+
+![Página principal](docs/screenshots/home.png)
+
+![Sign In](docs/screenshots/signin.png)
+
+![Sign Up](docs/screenshots/signup.png)
+
 ## Tecnologías
 
 HTML, CSS y JavaScript plano, sin frameworks ni build tools. El login (`script.js`) guarda usuario/contraseña en `localStorage` del navegador solo para simular el flujo de Sign In / Sign Up — no es autenticación real. `animation.js` tiene una animación en `<canvas>` (logo rebotando) en la pantalla de login.
