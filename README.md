@@ -12,7 +12,7 @@ Un mockup estático de una página de streaming de música: pantallas de Sign In
 
 Incluye el sketch y wireframe original en `sketch-wireframe/`.
 
-Demo: https://canderojo.github.io
+> El link de demo original (`canderojo.github.io`, GitHub Pages de una compañera de equipo) ya no está publicado. Las capturas de abajo muestran el sitio funcionando; para probarlo en vivo, clonar el repo y abrir `index.html` en el navegador (no requiere build ni servidor).
 
 ## Capturas
 
