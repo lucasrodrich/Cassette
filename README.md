@@ -6,6 +6,8 @@ Mi primer proyecto de programación, hecho en grupo para una materia de la carre
 
 **Autores:** Rojo Justicia Candelaria, Portigliatti María Emilia, Rodríguez Richard Lucas.
 
+También trabajé en SportLink y Dosis (confidenciales, no publicados).
+
 ## Qué es
 
 Un mockup estático de una página de streaming de música: pantallas de Sign In / Sign Up, y una página principal con secciones de Playlists, Canciones, Artistas, Métodos de suscripción y pago, Contacto, Quiénes somos y un FAQ. No hay backend ni base de datos real: es una maqueta de interfaz, hecha para practicar HTML/CSS/JS.
