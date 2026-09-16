@@ -13,4 +13,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Check for broken local links, assets and dead external links
-        run: npx --yes linkinator index.html signIn.html signUp.html
+        # instagram.com is skipped: it 429s automated requests from CI IP
+        # ranges regardless of whether the profile is real, so it can't be
+        # checked reliably here - not the same thing as a broken link.
+        run: npx --yes linkinator index.html signIn.html signUp.html --skip "instagram\.com"
