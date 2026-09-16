@@ -1,5 +1,7 @@
 # Cassette
 
+[![CI](https://github.com/lucasrodrich/Cassette/actions/workflows/ci.yml/badge.svg)](https://github.com/lucasrodrich/Cassette/actions/workflows/ci.yml)
+
 Mi primer proyecto de programación, hecho en grupo para una materia de la carrera (2024).
 
 **Autores:** Rojo Justicia Candelaria, Portigliatti María Emilia, Rodríguez Richard Lucas.
